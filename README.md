@@ -1,4 +1,4 @@
-# E-commerce product page
+# Calculator app
 
 Responsive Front-End Mentor Challenge (HTML + CSS + JavaScript)
 
